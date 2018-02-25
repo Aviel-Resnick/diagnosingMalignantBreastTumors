@@ -1,0 +1,4 @@
+Diagnosis
+B    357
+M    212
+dtype: int64
