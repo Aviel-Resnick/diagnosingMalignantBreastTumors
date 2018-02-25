@@ -1,5 +1,7 @@
 # Diagnosing Breast Cancer through Machine Learning
 
+*Received a perfect score from the Pennsylvania Junior Acadamy of Science
+
 This project aims to develop a new method for the diagnosis of malignant breast cancer, by applying machine learning algorithms to data sets from fine needle aspirates. The effectiveness will be measured by its success rate, in differentiating malignant from benign tumors.
 
 The dataset, specifically the “Breast Cancer Wisconsin (Diagnostic) Data Set” is computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image, including:
