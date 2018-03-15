@@ -4,7 +4,7 @@
 
 *Scored as First Place in C500 (Computer Science) at MontCo Science Fair - 2018*
 
-*Received the Villanova Award for Applied Statistical Analysis*
+*Received the Villanova Award for Applied Statistical Analysis* - 2018
 
 This project aims to develop a new method for the diagnosis of malignant breast cancer, by applying machine learning algorithms to data sets from fine needle aspirates. The effectiveness will be measured by its success rate, in differentiating malignant from benign tumors.
 
