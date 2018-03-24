@@ -6,7 +6,9 @@
 
 *Received the Villanova Award for Applied Statistical Analysis* - 2018
 
-This project aims to develop a new method for the diagnosis of malignant breast cancer, by applying machine learning algorithms to data sets from fine needle aspirates. The effectiveness will be measured by its success rate, in differentiating malignant from benign tumors.
+# Abstract
+
+Currently, the most common diagnostic method for breast cancer is a mammogram, essentially an x-ray of compacted breast mass, which yields an 87% successful diagnostic rate. This focus of this study was utilizing machine learning classifiers in order to develop a new method for the diagnosis of malignant breast tumors. An initial test of a variety of linear and nonlinear classifiers trained on the UCI "Breast Cancer Wisconsin (Diagnostic)" Data Set, and tested using 10-fold cross validation, was used to identify linear discriminant analysis as the optimal classifier for the diagnostic model.  It was then retrained, and applied to new data (a dedicated 20% of the dataset mentioned above). The final product was a complete diagnostic system which produced a 92.11% successful diagnostic rate, over 5% greater than mammograms, leading to the acceptance of the hypothesis, and the rejection of the null. While the results indicate a working model for the diagnosis of a malignant breast tumor, they also reveal important information about data from fine needle aspirates, such as their tendency to be split linearly. In addition, this model acts as a proof of concept for the application of machine learning and other forms of unsupervised computation for the diagnosis of diseases.
 
 The dataset, specifically the “Breast Cancer Wisconsin (Diagnostic) Data Set” is computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image, including:
 
