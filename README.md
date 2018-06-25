@@ -1,6 +1,8 @@
 # Diagnosing Breast Cancer through Machine Learning
 
-*Received a perfect score from the Pennsylvania Junior Academy of Science - 2018*
+*Received a perfect score from the Pennsylvania Junior Academy of Science at a regional level - 2018*
+
+*Received a First Place from the Pennsylvania Junior Academy of Science at a State level - 2018*
 
 *Scored as First Place in C500 (Computer Science) at MontCo Science Fair - 2018*
 
