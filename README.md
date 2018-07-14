@@ -6,6 +6,8 @@
 
 *Scored as First Place in C500 (Computer Science) at MontCo Science Fair - 2018*
 
+*Scored as Third Place in Computer Science at the Deleware Valley [Interstate] Science Fair - 2018*
+
 *Received the Villanova Award for Applied Statistical Analysis* - 2018
 
 # Abstract
