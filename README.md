@@ -1,4 +1,4 @@
-# Diagnosing Breast Cancer through Machine Learning
+# Diagnosing Malignant Breast Tumors through Machine Learning
 
 *Received a perfect score from the Pennsylvania Junior Academy of Science at a regional level - 2018*
 
