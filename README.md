@@ -8,7 +8,7 @@
 
 *Scored as Third Place in Computer Science at the Deleware Valley [Interstate] Science Fair - 2018*
 
-*Received the Villanova Award for Applied Statistical Analysis* - 2018
+*Received the Villanova Award for Applied Statistical Analysis - 2018*
 
 # Abstract
 
