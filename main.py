@@ -8,7 +8,6 @@ import matplotlib
 import sklearn
 import scipy
 import numpy
-import sklearn
 
 from pandas.plotting import scatter_matrix
 import matplotlib.pyplot as plt
